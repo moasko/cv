@@ -1,5 +1,5 @@
-```markdown
-# Moasko [Nom de famille]
+
+# Oandaogo Abdoul Mohage
 
 **Développeur Web et Mobile | Frontend Engineer | UI/UX Designer**  
 **Abidjan, Côte d'Ivoire**  
@@ -16,7 +16,7 @@ Développeur Frontend passionné avec plus de 3 ans d'expérience dans la concep
 ## 💼 Expérience Professionnelle
 
 ### Développeur Web Frontend / Web Designer  
-**Feetura** – Abidjan | 2024 - Présent  
+**Feetura** – Abidjan | 2024 ( 6mois )  
 Responsable du design et du développement d'applications pour la startup.  
 - Supervision du cycle complet de développement d'une application web et mobile pour la gestion interne de l'entreprise.
 - Collaboration avec les équipes produit pour définir et prioriser les fonctionnalités clés.
@@ -78,4 +78,3 @@ Responsable du design et du développement d'applications pour la startup.
 ## 📂 Projets (facultatif)
 
 - **Plateforme e-commerce Zangochap** : Développement complet d’un site e-commerce et d'une application mobile pour la gestion des ventes et des livraisons (React, Node.js).
-```
