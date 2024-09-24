@@ -1,5 +1,3 @@
-Voici une version de ton CV formatée en Markdown que tu pourras publier sur GitHub :
-
 ```markdown
 # Moasko [Nom de famille]
 
@@ -81,12 +79,3 @@ Responsable du design et du développement d'applications pour la startup.
 
 - **Plateforme e-commerce Zangochap** : Développement complet d’un site e-commerce et d'une application mobile pour la gestion des ventes et des livraisons (React, Node.js).
 ```
-
-### Instructions pour GitHub
-1. Crée un nouveau dépôt sur GitHub.
-2. Dans la section "Add file", clique sur "Create new file".
-3. Nomme le fichier `README.md`.
-4. Colle ce code Markdown dans l'éditeur.
-5. Clique sur "Commit new file" pour enregistrer ton CV dans ton dépôt GitHub.
-
-Ton CV sera ainsi bien formaté et facilement accessible en ligne.
